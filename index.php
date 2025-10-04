@@ -1,4 +1,4 @@
 <?php
-header("Localtion: dashboard.php");
+header("Localtion: login.php");
 exit;
 ?>
